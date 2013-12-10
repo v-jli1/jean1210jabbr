@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JabbR</title>
+    <title>JabbR1</title>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="description" content="A real-time chat application. IRC without the R." />
     <meta name="keywords" content="chat,realtime chat,signalr,jabbr" />
